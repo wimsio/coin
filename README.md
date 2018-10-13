@@ -1,2 +1,2 @@
 # coin
-WIM coin
+WIM Coin
